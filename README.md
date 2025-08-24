@@ -4,8 +4,8 @@ Scene containing scripts to control object creation (bullets and antibodies). Th
 
 The list of scripts used in this task, below, can be found in the aMAZECells folder.
 
- PlayerController.cs
- PoolManagerBullet.cs
- PoolManagerAntibody.cs
- Bullet.cs
- Antibody.cs
+ * PlayerController.cs
+ * PoolManagerBullet.cs
+ * PoolManagerAntibody.cs
+ * Bullet.cs
+ * Antibody.cs
